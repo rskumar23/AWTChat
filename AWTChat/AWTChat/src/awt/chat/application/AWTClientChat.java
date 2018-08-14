@@ -40,7 +40,7 @@ public class AWTClientChat extends Frame implements WindowListener,ActionListene
 		
 		txtArea.setBounds(80, 50, 300, 200);
 		
-		txtFiled.setBounds(80, 280, 240, 30);;
+		txtFiled.setBounds(80, 280, 240, 30);
 		
 		btn.setBounds(330, 280, 50, 30);
 		
